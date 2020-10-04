@@ -14,7 +14,7 @@ git clone https://github.com/Identityhdz/ASP.NET-CORE.git
 
 ```bash
 - Visual Studio 2019
-- Microsoft SQL Server Management Studio
+- Microsoft SQL Server Management Studio 2018
 ```
 
 ## Acerca del proyecto
